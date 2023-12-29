@@ -5,7 +5,7 @@ import Histogram from './Histogram';
 import data from './consolidated.json';
 //import data from './Data';
 const App = () => {
-    const [selectedPeriod, setSelectedPeriod] = useState("Yr-2023");
+    const [selectedPeriod, setSelectedPeriod] = useState("Sep-2023");
 
 
     const handlePeriodChange = (newPeriod) => {
@@ -25,7 +25,7 @@ const App = () => {
         </td>
         </tr>
         <tr><td>&nbsp;</td><td>Select year</td><td>
-        <Dropdown years={periods} selectedPeriod={selectedPeriod} onYearChange={handlePeriodChange} />
+        <Dropdown years={periods} selectedPeriod={selectedPeriod} onPeriodChange={handlePeriodChange} />
           </td></tr>
           <tr><br></br></tr>
           <tr><td>&nbsp;</td><td>

@@ -90,15 +90,17 @@ const Histogram = ({ data, selectedPeriod }) => {
       <div>
         <Tabs selectedIndex={tabIndex} onSelect={(index) => setTabIndex(index)}>
           <TabList>
-          <Tab>Tonality</Tab>
-          <Tab>ContextWidth</Tab>
+          <Tab>Media Tone</Tab>
+          <Tab>Context Width</Tab>
           </TabList>
           <TabPanel>
-      <h2>Tonality</h2>
+      <h2>Media Tone</h2>
+      <h3>Higher is better</h3>
       <Chart type="line" data={filteredTonalityData}  options = {opt}/>
       </TabPanel>
       <TabPanel>
       <h2>Context Width - absence of pronouns</h2>
+      <h3>Higher is better</h3>
       <Chart type="line" data={filteredActiveWordsData} options = {opt} />
       </TabPanel>
         </Tabs>
