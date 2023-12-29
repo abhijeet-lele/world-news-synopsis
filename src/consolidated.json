@@ -9060,68 +9060,6 @@
             "type": "node",
             "value": 47
         },
-        "Dec-2023": {
-            "children": [
-                {
-                    "name": "morgan stanley",
-                    "type": "leaf",
-                    "value": 2
-                },
-                {
-                    "name": "credit suisse",
-                    "type": "leaf",
-                    "value": 2
-                },
-                {
-                    "name": "linkedin",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "JPMC",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "exxon",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "commerzbank",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "ECB",
-                    "type": "leaf",
-                    "value": 2
-                },
-                {
-                    "name": "bloomberg",
-                    "type": "leaf",
-                    "value": 4
-                },
-                {
-                    "name": "barclays plc",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "merrill lynch",
-                    "type": "leaf",
-                    "value": 2
-                },
-                {
-                    "name": "FCA",
-                    "type": "leaf",
-                    "value": 1
-                }
-            ],
-            "name": "outer",
-            "type": "node",
-            "value": 18
-        },
         "Feb-2014": {
             "children": [
                 {
@@ -60892,58 +60830,6 @@
             "name": "outer",
             "type": "node",
             "value": 43
-        },
-        "Dec-2023": {
-            "children": [
-                {
-                    "name": "adam cochrane",
-                    "type": "leaf",
-                    "value": 2
-                },
-                {
-                    "name": "donald trump",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "letitia james",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "christopher kise",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "kevin wallace",
-                    "type": "leaf",
-                    "value": 1
-                },
-                {
-                    "name": "lawrence loh",
-                    "type": "leaf",
-                    "value": 4
-                },
-                {
-                    "name": "ahmad shahriman mohd shariff",
-                    "type": "leaf",
-                    "value": 4
-                },
-                {
-                    "name": "samir dhamankar",
-                    "type": "leaf",
-                    "value": 4
-                },
-                {
-                    "name": "lamine brahimi",
-                    "type": "leaf",
-                    "value": 2
-                }
-            ],
-            "name": "outer",
-            "type": "node",
-            "value": 20
         },
         "Feb-2014": {
             "children": [
@@ -120748,7 +120634,6 @@
         "Sep-2023",
         "Oct-2023",
         "Nov-2023",
-        "Dec-2023",
         "Yr-2013",
         "Yr-2014",
         "Yr-2015",
