@@ -19,13 +19,13 @@ const App = () => {
     return (
       <div>
         <table>
-          <tr><th>&nbsp;</th><th>Global News Reporting Synopsis</th></tr>
+          <tr><th>&nbsp;</th><th>Global News Synopsis</th></tr>
         <tr><td>&nbsp;</td><td>
         <Histogram data={dt} selectedPeriod={selectedPeriod} />
         </td>
         </tr>
-        <tr><td>&nbsp;</td><td>Select year</td><td>
-        <Dropdown years={periods} selectedPeriod={selectedPeriod} onPeriodChange={handlePeriodChange} />
+        <tr><td>&nbsp;</td><td>Select Period</td><td>
+        <Dropdown periods={periods} selectedPeriod={selectedPeriod} onPeriodChange={handlePeriodChange} />
           </td></tr>
           <tr><br></br></tr>
           <tr><td>&nbsp;</td><td>

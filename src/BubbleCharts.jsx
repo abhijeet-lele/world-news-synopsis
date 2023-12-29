@@ -32,11 +32,13 @@ const BubbleCharts = ({ data, selectedPeriod }) => {
           <Tab>Persons</Tab>
           </TabList>
           <TabPanel>
-              <h2>Any content 1 - selected Period {selectedPeriod}</h2>
+              <h2>Mentioned Entities in News for Period {selectedPeriod}</h2>
+              <h3>Size is proportinal represents number of mentions</h3>
               <CircularPacking width={width} height={height} data={filteredEntitiesData} />
             </TabPanel>
             <TabPanel>
-              <h2>Any content 2 - selected Period {selectedPeriod}</h2>
+              <h2>Mentioned Individuals in News for Period {selectedPeriod}</h2>
+              <h3>Size is proportinal represents number of mentions</h3>
               <CircularPacking width={width} height={height} data={filteredPersonsData} />
             </TabPanel>
         </Tabs>
