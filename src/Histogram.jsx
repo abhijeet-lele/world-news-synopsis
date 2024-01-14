@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState} from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import { Chart as ChartJS, registerables } from 'chart.js';
@@ -6,10 +6,12 @@ import { Chart } from 'react-chartjs-2'
 ChartJS.register(...registerables);
 
 
-const Histogram = ({ data, selectedPeriod }) => {
-  console.log(data)
+const Histogram = ({ data, selectedCompany, selectedPeriod }) => {
+
+
   const [tabIndex, setTabIndex] = useState(1);
-  
+
+  console.log(data)
     // ... Filter data based on selected year and tab
     
   //   let filteredTonalityData =  {
@@ -41,7 +43,8 @@ const Histogram = ({ data, selectedPeriod }) => {
   //         borderWidth: 1
   //     }]
   // };
-    let filteredTonalityData = data['tonality'];
+ 
+    
   //   let filteredActiveWordsData = {
   //     labels : ['J','F','M','A','M','J','J'],
   //     datasets: [{
@@ -72,7 +75,7 @@ const Histogram = ({ data, selectedPeriod }) => {
   //   borderWidth: 1
   //     }]
   // };
-  let filteredActiveWordsData = data['context_width'];
+
     let opt ={
       responsive: true,
       /*plugins: {
@@ -85,6 +88,8 @@ const Histogram = ({ data, selectedPeriod }) => {
         }
       }*/
     }
+    
+
 
     return (
       <div>
@@ -92,16 +97,21 @@ const Histogram = ({ data, selectedPeriod }) => {
           <TabList>
           <Tab>Media Tone</Tab>
           <Tab>Context Width</Tab>
+          <Tab>Context Width - Annotations</Tab>
           </TabList>
           <TabPanel>
-      <h2>Media Tone</h2>
+      <h2>Media Tone - {data['company']} </h2>
       <h3>Higher is better</h3>
-      <Chart type="line" data={filteredTonalityData}  options = {opt}/>
+      <Chart type="line"  key= {data['company']} data={data['tonality']}  options = {opt} redraw/>
       </TabPanel>
       <TabPanel>
-      <h2>Context Width - absence of pronouns</h2>
+      <h2>Context Width - use of pronouns - {data['company']} </h2>
       <h3>Higher is better</h3>
-      <Chart type="line" data={filteredActiveWordsData} options = {opt} />
+      <Chart type="line" key= {data['company']} data={data['context_width']} options = {opt} redraw />
+      </TabPanel>
+      <TabPanel>
+      <h2>Context Width - Annotations - {data['company']} </h2>
+      <img  src={data['company']=='Deutsche Bank' ? process.env.PUBLIC_URL +'/img/DeutscheBank-contextwidth.jpg'  : data['company']=='Adani Group' ? process.env.PUBLIC_URL +'/img/AdaniGroup-contextwidth.jpg' : data['company']=='Yes Bank' ? process.env.PUBLIC_URL +'/img/YesBank-contextwidth.jpg' : process.env.PUBLIC_URL +'/img/MayBank-contextwidth.jpg'}/>
       </TabPanel>
         </Tabs>
       </div>

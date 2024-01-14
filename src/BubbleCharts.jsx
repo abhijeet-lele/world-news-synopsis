@@ -4,7 +4,7 @@ import React, {useState} from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 
-const BubbleCharts = ({ data, selectedPeriod }) => {
+const BubbleCharts = ({ data,  selectedCompany, selectedPeriod }) => {
     const [tabIndex, setTabIndex] = useState(1);
     let width = 900;
     let height = 900;
@@ -24,6 +24,7 @@ const BubbleCharts = ({ data, selectedPeriod }) => {
     // ]};
     let filteredEntitiesData = data["entities_data"][selectedPeriod]
     let filteredPersonsData = data["persons_data"][selectedPeriod]
+    
     return (
       <div>
         <Tabs selectedIndex={tabIndex} onSelect={(index) => setTabIndex(index)}>

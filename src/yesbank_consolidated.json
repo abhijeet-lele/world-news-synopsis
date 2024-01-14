@@ -1,0 +1,3791 @@
+{
+    "company" :"Yes Bank",
+    "context_width": {
+        "datasets": [
+            {
+                "data": [
+                    30.670460130289147,
+                    26.745607126806878,
+                    29.658314381301295,
+                    29.612259072088086,
+                    29.46308689543707,
+                    30.012180540206312,
+                    24.709606442826647,
+                    30.030498053967744,
+                    30.670460130289147,
+                    27.622607093761474,
+                    18.10510032521368,
+                    26.39846840760005,
+                    27.01926141432572,
+                    27.816604605315096,
+                    30.569831199471537,
+                    23.487682552057077,
+                    29.483746530347705,
+                    30.670460130289147,
+                    30.670460130289147,
+                    26.058864186916896,
+                    29.615939771420962,
+                    25.631272766193437,
+                    27.333529366483116,
+                    30.670460130289147,
+                    29.546864624671166,
+                    29.8424932489644,
+                    30.670460130289147,
+                    30.038562768759636,
+                    29.09371490958315,
+                    30.670460130289147,
+                    29.460782710934307,
+                    29.190512440664037,
+                    28.32809149773528,
+                    29.604362049265696,
+                    28.625055002692243,
+                    29.04291194359012,
+                    29.27706510918883,
+                    29.678186943976645,
+                    29.939465978242364,
+                    5.0344352616180785,
+                    30.04769687183745,
+                    30.670460130289147,
+                    30.546082020836412,
+                    29.39418385401287,
+                    25.564945051653886,
+                    25.908555368384388,
+                    29.343026501970566,
+                    30.670460130289147,
+                    30.670460130289147,
+                    29.076489314330416,
+                    28.969475688132516,
+                    30.670460130289147,
+                    28.421699640757126,
+                    30.670460130289147,
+                    30.670460130289147,
+                    30.670460130289147,
+                    30.670460130289147,
+                    30.420613845835796
+                ],
+                "label": "Context Width"
+            }
+        ],
+        "labels": [
+            "Jan-2015",
+            "Mar-2015",
+            "Apr-2015",
+            "Jun-2015",
+            "Sep-2015",
+            "Nov-2015",
+            "Dec-2015",
+            "Mar-2016",
+            "May-2016",
+            "Jul-2016",
+            "Sep-2016",
+            "Oct-2016",
+            "Nov-2016",
+            "Dec-2016",
+            "Jan-2017",
+            "Mar-2017",
+            "Apr-2017",
+            "Jun-2017",
+            "Jul-2017",
+            "Aug-2017",
+            "Oct-2017",
+            "Dec-2017",
+            "Jan-2018",
+            "Feb-2018",
+            "Mar-2018",
+            "May-2018",
+            "Jun-2018",
+            "Aug-2018",
+            "Sep-2018",
+            "Oct-2018",
+            "Nov-2018",
+            "Dec-2018",
+            "Jan-2019",
+            "Aug-2019",
+            "Sep-2019",
+            "Oct-2019",
+            "Nov-2019",
+            "Dec-2019",
+            "Jan-2020",
+            "Mar-2020",
+            "Apr-2020",
+            "Jul-2020",
+            "Jan-2021",
+            "Feb-2021",
+            "May-2021",
+            "Feb-2022",
+            "Jul-2022",
+            "Aug-2022",
+            "Oct-2022",
+            "Jan-2023",
+            "Mar-2023",
+            "May-2023",
+            "Jun-2023",
+            "Jul-2023",
+            "Aug-2023",
+            "Sep-2023",
+            "Oct-2023",
+            "Nov-2023"
+        ]
+    },
+    "entities_data": {
+        "Apr-2017": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "european union",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 9
+        },
+        "Aug-2017": {
+            "children": [
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Aug-2018": {
+            "children": [
+                {
+                    "name": "commerzbank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Dec-2015": {
+            "children": [
+                {
+                    "name": "LSE",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Dec-2016": {
+            "children": [
+                {
+                    "name": "facebook",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Dec-2017": {
+            "children": [
+                {
+                    "name": "european investment bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "european union",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 9
+        },
+        "Feb-2018": {
+            "children": [
+                {
+                    "name": "commerzbank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Feb-2022": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jan-2016": {
+            "children": [
+                {
+                    "name": "department of industrial",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "wipro",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "wipro limited",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "students federation of india",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "lenovo",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "central bureau of investigation",
+                    "type": "leaf",
+                    "value": 41
+                },
+                {
+                    "name": "indian air",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "LSE",
+                    "type": "leaf",
+                    "value": 139
+                },
+                {
+                    "name": "london stock exchange london",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "congress mp mithun reddy",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "union human resource development",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "bharatiya janata party",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "air india",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "peoples democratic party",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "reliance group",
+                    "type": "leaf",
+                    "value": 119
+                },
+                {
+                    "name": "hyderabad central university",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "congress vice",
+                    "type": "leaf",
+                    "value": 97
+                },
+                {
+                    "name": "indian political action committee",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "dalit students union",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "high court",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "congress party",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "regional transport office",
+                    "type": "leaf",
+                    "value": 118
+                },
+                {
+                    "name": "twitter",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "ibm",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "national students association",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "delhi police",
+                    "type": "leaf",
+                    "value": 40
+                },
+                {
+                    "name": "indian external affairs",
+                    "type": "leaf",
+                    "value": 136
+                },
+                {
+                    "name": "aam aadmi party",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "punjab congress",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "splendid hotel",
+                    "type": "leaf",
+                    "value": 93
+                },
+                {
+                    "name": "chittoor police",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "pathankot air",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "lahore high court",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "big bash league on",
+                    "type": "leaf",
+                    "value": 101
+                },
+                {
+                    "name": "international law ahmer bilal soofi",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "pakistan army",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "india programme",
+                    "type": "leaf",
+                    "value": 119
+                },
+                {
+                    "name": "world bank",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "brihanmumbai municipal corporation",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "union dattatreya",
+                    "type": "leaf",
+                    "value": 36
+                },
+                {
+                    "name": "university of hyderabad",
+                    "type": "leaf",
+                    "value": 124
+                },
+                {
+                    "name": "hyderabad university",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "supreme court",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "news international on",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "indian institute of management bangalore",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "OPEC",
+                    "type": "leaf",
+                    "value": 133
+                },
+                {
+                    "name": "indian bank",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "life sciences",
+                    "type": "leaf",
+                    "value": 120
+                },
+                {
+                    "name": "delhi transport corporation",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "asian heart institute",
+                    "type": "leaf",
+                    "value": 27
+                },
+                {
+                    "name": "delhi high court on",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "news international",
+                    "type": "leaf",
+                    "value": 136
+                },
+                {
+                    "name": "lok janshakti party",
+                    "type": "leaf",
+                    "value": 66
+                },
+                {
+                    "name": "police sunil garg",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "home affairs kiren rijiju on",
+                    "type": "leaf",
+                    "value": 25
+                },
+                {
+                    "name": "congress party on",
+                    "type": "leaf",
+                    "value": 126
+                },
+                {
+                    "name": "supreme court on",
+                    "type": "leaf",
+                    "value": 40
+                },
+                {
+                    "name": "goa police",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "national conference on sustainable agriculture",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "congress new delhi",
+                    "type": "leaf",
+                    "value": 126
+                },
+                {
+                    "name": "human development upendra kushwaha on",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "telugu desam party",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "union civil aviation",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "cyberabad police",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "trial court",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "ministry for social justice",
+                    "type": "leaf",
+                    "value": 95
+                },
+                {
+                    "name": "sher-e-bangla national stadium in mirpur on",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "university of oxford",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "national bravery",
+                    "type": "leaf",
+                    "value": 68
+                },
+                {
+                    "name": "indian space research organisation",
+                    "type": "leaf",
+                    "value": 65
+                },
+                {
+                    "name": "india reliance industries",
+                    "type": "leaf",
+                    "value": 111
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "gurdaspur superintendent of police salwinder singh",
+                    "type": "leaf",
+                    "value": 75
+                },
+                {
+                    "name": "bangalore international airport ltd",
+                    "type": "leaf",
+                    "value": 92
+                },
+                {
+                    "name": "krishnapatnam power corporation",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "krishnapatnam power corp",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "hyderabad central university ambedkar students association",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "ambedkar association",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "centre act",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "national investigation agency",
+                    "type": "leaf",
+                    "value": 75
+                },
+                {
+                    "name": "mamata banerjee trinamool congress",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "samajwadi party",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "bacha khan university",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "army public school peshawar",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "indian oil corporation ltd",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "delhi high court",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "madras high court",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "government railway police",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "gauraksha commando force",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "union human resource",
+                    "type": "leaf",
+                    "value": 36
+                },
+                {
+                    "name": "airtel",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "television institute of india",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "vodafone",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "big bash league",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "bacha khan university in charsadda",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "xinhua",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "IMF",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "hyderabad university on",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "indian space research organization",
+                    "type": "leaf",
+                    "value": 15
+                },
+                {
+                    "name": "sharif on pak university",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "bihar kosi basin development project new delhi",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "world bank on",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "group on public administration",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "national student union of india",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "bihar kosi basin development",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "hyderabad university hyderabad",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "pakistan university",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "department of economic affairs",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "congress mp hanumantha rao on",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "NYTimes",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "cabinet committee on economic affairs",
+                    "type": "leaf",
+                    "value": 15
+                },
+                {
+                    "name": "jawaharlal nehru national solar mission",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "bacha khan university at charasada",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "pak university",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "solar power developers spds",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "facebook",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6967
+        },
+        "Jan-2018": {
+            "children": [
+                {
+                    "name": "commerzbank",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jan-2019": {
+            "children": [
+                {
+                    "name": "thomson reuters trust principles",
+                    "type": "leaf",
+                    "value": 4
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 6
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 10
+        },
+        "Jan-2020": {
+            "children": [
+                {
+                    "name": "JPMC",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank ltd",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jan-2023": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "carlyle group",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "credit suisse",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jul-2016": {
+            "children": [
+                {
+                    "name": "world bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jul-2017": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jul-2022": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jul-2023": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jun-2015": {
+            "children": [
+                {
+                    "name": "moody",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jun-2023": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Mar-2015": {
+            "children": [
+                {
+                    "name": "moody",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "LSE",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Mar-2016": {
+            "children": [
+                {
+                    "name": "world bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Mar-2017": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Mar-2018": {
+            "children": [
+                {
+                    "name": "commerzbank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Mar-2020": {
+            "children": [
+                {
+                    "name": "twitter",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "bank ltd",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "nifty bank index",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "moody",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "thomson reuters trust principles",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "bank on",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "punjab maharashtra bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "a yes bank",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "bank atms",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 11
+                },
+                {
+                    "name": "JPMC",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 94
+        },
+        "Mar-2023": {
+            "children": [
+                {
+                    "name": "credit suisse",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "deutsche bank",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 6
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 32
+        },
+        "May-2016": {
+            "children": [
+                {
+                    "name": "IMF",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "cabinet committee on economic affairs",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "May-2018": {
+            "children": [
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Nov-2015": {
+            "children": [
+                {
+                    "name": "LSE",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "moody",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "Nov-2016": {
+            "children": [
+                {
+                    "name": "world bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Nov-2019": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Nov-2023": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "goldman sachs",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "jack ma ant group",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "carlyle group",
+                    "type": "leaf",
+                    "value": 7
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 31
+        },
+        "Oct-2016": {
+            "children": [
+                {
+                    "name": "twitter",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "facebook",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Oct-2017": {
+            "children": [
+                {
+                    "name": "european investment bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Oct-2022": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Sep-2016": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "facebook",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Sep-2018": {
+            "children": [
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Sep-2019": {
+            "children": [
+                {
+                    "name": "thomson reuters trust principles",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Yr-2015": {
+            "children": [
+                {
+                    "name": "LSE",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "moody",
+                    "type": "leaf",
+                    "value": 6
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 13
+        },
+        "Yr-2016": {
+            "children": [
+                {
+                    "name": "twitter",
+                    "type": "leaf",
+                    "value": 139
+                },
+                {
+                    "name": "facebook",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "department of industrial",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "wipro",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "wipro limited",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "students federation of india",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "lenovo",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "central bureau of investigation",
+                    "type": "leaf",
+                    "value": 41
+                },
+                {
+                    "name": "indian air",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "LSE",
+                    "type": "leaf",
+                    "value": 139
+                },
+                {
+                    "name": "london stock exchange london",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "congress mp mithun reddy",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "union human resource development",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "bharatiya janata party",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "air india",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "peoples democratic party",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "reliance group",
+                    "type": "leaf",
+                    "value": 119
+                },
+                {
+                    "name": "hyderabad central university",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "congress vice",
+                    "type": "leaf",
+                    "value": 97
+                },
+                {
+                    "name": "indian political action committee",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "dalit students union",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "high court",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "congress party",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "regional transport office",
+                    "type": "leaf",
+                    "value": 118
+                },
+                {
+                    "name": "ibm",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "national students association",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "delhi police",
+                    "type": "leaf",
+                    "value": 40
+                },
+                {
+                    "name": "indian external affairs",
+                    "type": "leaf",
+                    "value": 136
+                },
+                {
+                    "name": "aam aadmi party",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "punjab congress",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "splendid hotel",
+                    "type": "leaf",
+                    "value": 93
+                },
+                {
+                    "name": "chittoor police",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "pathankot air",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "lahore high court",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "big bash league on",
+                    "type": "leaf",
+                    "value": 101
+                },
+                {
+                    "name": "international law ahmer bilal soofi",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "pakistan army",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "india programme",
+                    "type": "leaf",
+                    "value": 119
+                },
+                {
+                    "name": "world bank",
+                    "type": "leaf",
+                    "value": 21
+                },
+                {
+                    "name": "brihanmumbai municipal corporation",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "union dattatreya",
+                    "type": "leaf",
+                    "value": 36
+                },
+                {
+                    "name": "university of hyderabad",
+                    "type": "leaf",
+                    "value": 124
+                },
+                {
+                    "name": "hyderabad university",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "supreme court",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "news international on",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "indian institute of management bangalore",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "OPEC",
+                    "type": "leaf",
+                    "value": 133
+                },
+                {
+                    "name": "indian bank",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "life sciences",
+                    "type": "leaf",
+                    "value": 120
+                },
+                {
+                    "name": "delhi transport corporation",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "asian heart institute",
+                    "type": "leaf",
+                    "value": 27
+                },
+                {
+                    "name": "delhi high court on",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "news international",
+                    "type": "leaf",
+                    "value": 136
+                },
+                {
+                    "name": "lok janshakti party",
+                    "type": "leaf",
+                    "value": 66
+                },
+                {
+                    "name": "police sunil garg",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "home affairs kiren rijiju on",
+                    "type": "leaf",
+                    "value": 25
+                },
+                {
+                    "name": "congress party on",
+                    "type": "leaf",
+                    "value": 126
+                },
+                {
+                    "name": "supreme court on",
+                    "type": "leaf",
+                    "value": 40
+                },
+                {
+                    "name": "goa police",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "national conference on sustainable agriculture",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "congress new delhi",
+                    "type": "leaf",
+                    "value": 126
+                },
+                {
+                    "name": "human development upendra kushwaha on",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "telugu desam party",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "union civil aviation",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "cyberabad police",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "trial court",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "ministry for social justice",
+                    "type": "leaf",
+                    "value": 95
+                },
+                {
+                    "name": "sher-e-bangla national stadium in mirpur on",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "university of oxford",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "national bravery",
+                    "type": "leaf",
+                    "value": 68
+                },
+                {
+                    "name": "indian space research organisation",
+                    "type": "leaf",
+                    "value": 65
+                },
+                {
+                    "name": "india reliance industries",
+                    "type": "leaf",
+                    "value": 111
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "gurdaspur superintendent of police salwinder singh",
+                    "type": "leaf",
+                    "value": 75
+                },
+                {
+                    "name": "bangalore international airport ltd",
+                    "type": "leaf",
+                    "value": 92
+                },
+                {
+                    "name": "krishnapatnam power corporation",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "krishnapatnam power corp",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "hyderabad central university ambedkar students association",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "ambedkar association",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "centre act",
+                    "type": "leaf",
+                    "value": 47
+                },
+                {
+                    "name": "national investigation agency",
+                    "type": "leaf",
+                    "value": 75
+                },
+                {
+                    "name": "mamata banerjee trinamool congress",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "samajwadi party",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "bacha khan university",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "army public school peshawar",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "indian oil corporation ltd",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "delhi high court",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "madras high court",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "government railway police",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "gauraksha commando force",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "union human resource",
+                    "type": "leaf",
+                    "value": 36
+                },
+                {
+                    "name": "airtel",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "television institute of india",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "vodafone",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "big bash league",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "bacha khan university in charsadda",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "xinhua",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "IMF",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "hyderabad university on",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "indian space research organization",
+                    "type": "leaf",
+                    "value": 15
+                },
+                {
+                    "name": "sharif on pak university",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "bihar kosi basin development project new delhi",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "world bank on",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "group on public administration",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "national student union of india",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "bihar kosi basin development",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "hyderabad university hyderabad",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "pakistan university",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "department of economic affairs",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "congress mp hanumantha rao on",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "NYTimes",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "cabinet committee on economic affairs",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "jawaharlal nehru national solar mission",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "bacha khan university at charasada",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "pak university",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "solar power developers spds",
+                    "type": "leaf",
+                    "value": 14
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6983
+        },
+        "Yr-2017": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "european investment bank",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "european union",
+                    "type": "leaf",
+                    "value": 6
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 27
+        },
+        "Yr-2018": {
+            "children": [
+                {
+                    "name": "united states",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "commerzbank",
+                    "type": "leaf",
+                    "value": 7
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 13
+        },
+        "Yr-2019": {
+            "children": [
+                {
+                    "name": "thomson reuters trust principles",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 8
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 13
+        },
+        "Yr-2020": {
+            "children": [
+                {
+                    "name": "JPMC",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "bank ltd",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "twitter",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "nifty bank index",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "moody",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "thomson reuters trust principles",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "bank on",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "punjab maharashtra bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "a yes bank",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "bank atms",
+                    "type": "leaf",
+                    "value": 14
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 11
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 97
+        },
+        "Yr-2022": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Yr-2023": {
+            "children": [
+                {
+                    "name": "reuters",
+                    "type": "leaf",
+                    "value": 20
+                },
+                {
+                    "name": "carlyle group",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "credit suisse",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "deutsche bank",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "goldman sachs",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "jack ma ant group",
+                    "type": "leaf",
+                    "value": 8
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 71
+        }
+    },
+    "persons_data": {
+        "Apr-2017": {
+            "children": [
+                {
+                    "name": "donald trump",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Aug-2019": {
+            "children": [
+                {
+                    "name": "rana kapoor",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Dec-2017": {
+            "children": [
+                {
+                    "name": "andrew mcdowell",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Jan-2016": {
+            "children": [
+                {
+                    "name": "jan koum",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "mamata banerjee",
+                    "type": "leaf",
+                    "value": 117
+                },
+                {
+                    "name": "telangana jagruti yuva",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "akhil bharatiya vidhyarthi parishad",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "siddhesh naik",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "chhota rajan",
+                    "type": "leaf",
+                    "value": 40
+                },
+                {
+                    "name": "siddharth nath singh",
+                    "type": "leaf",
+                    "value": 105
+                },
+                {
+                    "name": "barinder sran",
+                    "type": "leaf",
+                    "value": 83
+                },
+                {
+                    "name": "reuven rivlin",
+                    "type": "leaf",
+                    "value": 83
+                },
+                {
+                    "name": "nirmal singh jammu",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "jaish-e-mohammed je",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "nilesh gautam",
+                    "type": "leaf",
+                    "value": 27
+                },
+                {
+                    "name": "ashok vajpeyi",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "rohith chakravarthi vemula",
+                    "type": "leaf",
+                    "value": 120
+                },
+                {
+                    "name": "bhawna arora",
+                    "type": "leaf",
+                    "value": 123
+                },
+                {
+                    "name": "jaish-e-mohammad je",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "manish sisodia",
+                    "type": "leaf",
+                    "value": 31
+                },
+                {
+                    "name": "baba ramdev patanjali",
+                    "type": "leaf",
+                    "value": 53
+                },
+                {
+                    "name": "sena prabhat kumar",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "amitava sen",
+                    "type": "leaf",
+                    "value": 27
+                },
+                {
+                    "name": "chris gayle",
+                    "type": "leaf",
+                    "value": 101
+                },
+                {
+                    "name": "arvind kejriwal",
+                    "type": "leaf",
+                    "value": 111
+                },
+                {
+                    "name": "ishant sharma",
+                    "type": "leaf",
+                    "value": 83
+                },
+                {
+                    "name": "sena bhavna arora",
+                    "type": "leaf",
+                    "value": 119
+                },
+                {
+                    "name": "karbonn quattro",
+                    "type": "leaf",
+                    "value": 96
+                },
+                {
+                    "name": "yuvraj singh",
+                    "type": "leaf",
+                    "value": 101
+                },
+                {
+                    "name": "rohit vemula",
+                    "type": "leaf",
+                    "value": 134
+                },
+                {
+                    "name": "amarinder singh",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "aadmi sena",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "bandaru dattatreya",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "raj purohit",
+                    "type": "leaf",
+                    "value": 11
+                },
+                {
+                    "name": "aamir khan",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "masood azhar",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "maulana masood azhar",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "janhavi gadkar",
+                    "type": "leaf",
+                    "value": 118
+                },
+                {
+                    "name": "amitabh kant",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "dawood ibrahim",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "kishore biyani",
+                    "type": "leaf",
+                    "value": 53
+                },
+                {
+                    "name": "bhaag mamata bhaag",
+                    "type": "leaf",
+                    "value": 105
+                },
+                {
+                    "name": "rahul gandhi",
+                    "type": "leaf",
+                    "value": 130
+                },
+                {
+                    "name": "rohith vemula",
+                    "type": "leaf",
+                    "value": 132
+                },
+                {
+                    "name": "manohar parrikar",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "radha mohan singh",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "satish upadhyay",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "ajit chandila",
+                    "type": "leaf",
+                    "value": 53
+                },
+                {
+                    "name": "bharat ratna",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "n t rama rao",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "firstpost jaish-e-mohammed",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "ashok gajapathi raju",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "vineet dahiya",
+                    "type": "leaf",
+                    "value": 59
+                },
+                {
+                    "name": "sushil kumar",
+                    "type": "leaf",
+                    "value": 81
+                },
+                {
+                    "name": "sunil kumar",
+                    "type": "leaf",
+                    "value": 59
+                },
+                {
+                    "name": "bhavna arora",
+                    "type": "leaf",
+                    "value": 20
+                },
+                {
+                    "name": "rajneesh chopra",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "arun pandey",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "vellappally natesan",
+                    "type": "leaf",
+                    "value": 95
+                },
+                {
+                    "name": "lucy gadkari",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "buddhadeb bhattacharjee",
+                    "type": "leaf",
+                    "value": 70
+                },
+                {
+                    "name": "nawaz sharif",
+                    "type": "leaf",
+                    "value": 31
+                },
+                {
+                    "name": "pathankot rahul gandhi",
+                    "type": "leaf",
+                    "value": 33
+                },
+                {
+                    "name": "krishnakumar natarajan",
+                    "type": "leaf",
+                    "value": 94
+                },
+                {
+                    "name": "ravi shastri",
+                    "type": "leaf",
+                    "value": 58
+                },
+                {
+                    "name": "anurag thakur",
+                    "type": "leaf",
+                    "value": 58
+                },
+                {
+                    "name": "mukesh ambani",
+                    "type": "leaf",
+                    "value": 111
+                },
+                {
+                    "name": "duncan fletcher",
+                    "type": "leaf",
+                    "value": 58
+                },
+                {
+                    "name": "shubham jaglan",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "chinta sasidhar",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "gaurav kawduji sahastrabuddhe",
+                    "type": "leaf",
+                    "value": 67
+                },
+                {
+                    "name": "andhra nellore andhra pradesh",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "kempe gowda",
+                    "type": "leaf",
+                    "value": 92
+                },
+                {
+                    "name": "salwinder singh",
+                    "type": "leaf",
+                    "value": 75
+                },
+                {
+                    "name": "dontha prashanth",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "vikas swarup",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "jyotirmoy dey",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "sudhanshu gupta",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "moshe yaalon",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "pathankot rohith vemula",
+                    "type": "leaf",
+                    "value": 24
+                },
+                {
+                    "name": "david carmon",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "trivandrum sriharikota",
+                    "type": "leaf",
+                    "value": 38
+                },
+                {
+                    "name": "g madhavan nair",
+                    "type": "leaf",
+                    "value": 38
+                },
+                {
+                    "name": "bacha khan baba",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "bacha khan",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "talat hussain",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "shakeel farman ali",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "saeed wazir",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "khan abdul ghaffar khan",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "dravida munnetra kazhagam",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "p muralidhar rao",
+                    "type": "leaf",
+                    "value": 32
+                },
+                {
+                    "name": "sheila dikshit",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "ankeet chavan",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "ishan kishan",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "rahul dravid",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "amit singh",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "nathan hauritz",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "prakash reddy",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "shane warne",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "sambit patra",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "omar mansoor",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "a s kiran kumar",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "hamid hussain",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "asim bajwa",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "raj kumar",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "rahul sharma",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "onno ruhl",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "yakub memon",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "nitish kumar",
+                    "type": "leaf",
+                    "value": 11
+                },
+                {
+                    "name": "akhil bharatiya vidyarathi parishad",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "dane vilas",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "poonam pandey",
+                    "type": "leaf",
+                    "value": 10
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6493
+        },
+        "Jan-2019": {
+            "children": [
+                {
+                    "name": "ravneet singh gill",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "chris thomas",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "muralikumar anantharaman",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "rana kapoor",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 21
+        },
+        "Jan-2020": {
+            "children": [
+                {
+                    "name": "rajnish kumar",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jan-2023": {
+            "children": [
+                {
+                    "name": "prashant kumar",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jul-2023": {
+            "children": [
+                {
+                    "name": "prashant kumar",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "siddhi nayak",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Jun-2023": {
+            "children": [
+                {
+                    "name": "siddhi nayak",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "prashant kumar",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "Mar-2017": {
+            "children": [
+                {
+                    "name": "donald trump",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Mar-2020": {
+            "children": [
+                {
+                    "name": "nirmala sitharaman",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "shaktikanta das",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "sandip sabharwal",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "saurabh kumar",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "deepak jasani",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "clarence fernandez",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "euan rocha",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "chintan patel",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "sameer nigam",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "rana kapoor",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "rajnish kumar",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "prashant kumar",
+                    "type": "leaf",
+                    "value": 21
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 124
+        },
+        "Mar-2023": {
+            "children": [
+                {
+                    "name": "deutsche pfandbriefbank",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Nov-2019": {
+            "children": [
+                {
+                    "name": "rana kapoor",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Nov-2023": {
+            "children": [
+                {
+                    "name": "harvey schwartz",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "patrick siewert",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "herman chang",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "nina gong",
+                    "type": "leaf",
+                    "value": 8
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 32
+        },
+        "Oct-2017": {
+            "children": [
+                {
+                    "name": "andrew mcdowell",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Oct-2023": {
+            "children": [
+                {
+                    "name": "siddhi nayak",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Yr-2016": {
+            "children": [
+                {
+                    "name": "jan koum",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "mamata banerjee",
+                    "type": "leaf",
+                    "value": 117
+                },
+                {
+                    "name": "telangana jagruti yuva",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "akhil bharatiya vidhyarthi parishad",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "siddhesh naik",
+                    "type": "leaf",
+                    "value": 76
+                },
+                {
+                    "name": "chhota rajan",
+                    "type": "leaf",
+                    "value": 40
+                },
+                {
+                    "name": "siddharth nath singh",
+                    "type": "leaf",
+                    "value": 105
+                },
+                {
+                    "name": "barinder sran",
+                    "type": "leaf",
+                    "value": 83
+                },
+                {
+                    "name": "reuven rivlin",
+                    "type": "leaf",
+                    "value": 83
+                },
+                {
+                    "name": "nirmal singh jammu",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "jaish-e-mohammed je",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "nilesh gautam",
+                    "type": "leaf",
+                    "value": 27
+                },
+                {
+                    "name": "ashok vajpeyi",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "rohith chakravarthi vemula",
+                    "type": "leaf",
+                    "value": 120
+                },
+                {
+                    "name": "bhawna arora",
+                    "type": "leaf",
+                    "value": 123
+                },
+                {
+                    "name": "jaish-e-mohammad je",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "manish sisodia",
+                    "type": "leaf",
+                    "value": 31
+                },
+                {
+                    "name": "baba ramdev patanjali",
+                    "type": "leaf",
+                    "value": 53
+                },
+                {
+                    "name": "sena prabhat kumar",
+                    "type": "leaf",
+                    "value": 30
+                },
+                {
+                    "name": "amitava sen",
+                    "type": "leaf",
+                    "value": 27
+                },
+                {
+                    "name": "chris gayle",
+                    "type": "leaf",
+                    "value": 101
+                },
+                {
+                    "name": "arvind kejriwal",
+                    "type": "leaf",
+                    "value": 111
+                },
+                {
+                    "name": "ishant sharma",
+                    "type": "leaf",
+                    "value": 83
+                },
+                {
+                    "name": "sena bhavna arora",
+                    "type": "leaf",
+                    "value": 119
+                },
+                {
+                    "name": "karbonn quattro",
+                    "type": "leaf",
+                    "value": 96
+                },
+                {
+                    "name": "yuvraj singh",
+                    "type": "leaf",
+                    "value": 101
+                },
+                {
+                    "name": "rohit vemula",
+                    "type": "leaf",
+                    "value": 134
+                },
+                {
+                    "name": "amarinder singh",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "aadmi sena",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "bandaru dattatreya",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "raj purohit",
+                    "type": "leaf",
+                    "value": 11
+                },
+                {
+                    "name": "aamir khan",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "masood azhar",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "maulana masood azhar",
+                    "type": "leaf",
+                    "value": 137
+                },
+                {
+                    "name": "janhavi gadkar",
+                    "type": "leaf",
+                    "value": 118
+                },
+                {
+                    "name": "amitabh kant",
+                    "type": "leaf",
+                    "value": 138
+                },
+                {
+                    "name": "dawood ibrahim",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "kishore biyani",
+                    "type": "leaf",
+                    "value": 53
+                },
+                {
+                    "name": "bhaag mamata bhaag",
+                    "type": "leaf",
+                    "value": 105
+                },
+                {
+                    "name": "rahul gandhi",
+                    "type": "leaf",
+                    "value": 130
+                },
+                {
+                    "name": "rohith vemula",
+                    "type": "leaf",
+                    "value": 132
+                },
+                {
+                    "name": "manohar parrikar",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "radha mohan singh",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "satish upadhyay",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "ajit chandila",
+                    "type": "leaf",
+                    "value": 53
+                },
+                {
+                    "name": "bharat ratna",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "n t rama rao",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "firstpost jaish-e-mohammed",
+                    "type": "leaf",
+                    "value": 78
+                },
+                {
+                    "name": "ashok gajapathi raju",
+                    "type": "leaf",
+                    "value": 52
+                },
+                {
+                    "name": "vineet dahiya",
+                    "type": "leaf",
+                    "value": 59
+                },
+                {
+                    "name": "sushil kumar",
+                    "type": "leaf",
+                    "value": 81
+                },
+                {
+                    "name": "sunil kumar",
+                    "type": "leaf",
+                    "value": 59
+                },
+                {
+                    "name": "bhavna arora",
+                    "type": "leaf",
+                    "value": 20
+                },
+                {
+                    "name": "rajneesh chopra",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "arun pandey",
+                    "type": "leaf",
+                    "value": 100
+                },
+                {
+                    "name": "vellappally natesan",
+                    "type": "leaf",
+                    "value": 95
+                },
+                {
+                    "name": "lucy gadkari",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "buddhadeb bhattacharjee",
+                    "type": "leaf",
+                    "value": 70
+                },
+                {
+                    "name": "nawaz sharif",
+                    "type": "leaf",
+                    "value": 31
+                },
+                {
+                    "name": "pathankot rahul gandhi",
+                    "type": "leaf",
+                    "value": 33
+                },
+                {
+                    "name": "krishnakumar natarajan",
+                    "type": "leaf",
+                    "value": 94
+                },
+                {
+                    "name": "ravi shastri",
+                    "type": "leaf",
+                    "value": 58
+                },
+                {
+                    "name": "anurag thakur",
+                    "type": "leaf",
+                    "value": 58
+                },
+                {
+                    "name": "mukesh ambani",
+                    "type": "leaf",
+                    "value": 111
+                },
+                {
+                    "name": "duncan fletcher",
+                    "type": "leaf",
+                    "value": 58
+                },
+                {
+                    "name": "shubham jaglan",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "chinta sasidhar",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "gaurav kawduji sahastrabuddhe",
+                    "type": "leaf",
+                    "value": 67
+                },
+                {
+                    "name": "andhra nellore andhra pradesh",
+                    "type": "leaf",
+                    "value": 46
+                },
+                {
+                    "name": "kempe gowda",
+                    "type": "leaf",
+                    "value": 92
+                },
+                {
+                    "name": "salwinder singh",
+                    "type": "leaf",
+                    "value": 75
+                },
+                {
+                    "name": "dontha prashanth",
+                    "type": "leaf",
+                    "value": 86
+                },
+                {
+                    "name": "vikas swarup",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "jyotirmoy dey",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "sudhanshu gupta",
+                    "type": "leaf",
+                    "value": 26
+                },
+                {
+                    "name": "moshe yaalon",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "pathankot rohith vemula",
+                    "type": "leaf",
+                    "value": 24
+                },
+                {
+                    "name": "david carmon",
+                    "type": "leaf",
+                    "value": 42
+                },
+                {
+                    "name": "trivandrum sriharikota",
+                    "type": "leaf",
+                    "value": 38
+                },
+                {
+                    "name": "g madhavan nair",
+                    "type": "leaf",
+                    "value": 38
+                },
+                {
+                    "name": "bacha khan baba",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "bacha khan",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "talat hussain",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "shakeel farman ali",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "saeed wazir",
+                    "type": "leaf",
+                    "value": 13
+                },
+                {
+                    "name": "khan abdul ghaffar khan",
+                    "type": "leaf",
+                    "value": 22
+                },
+                {
+                    "name": "dravida munnetra kazhagam",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "p muralidhar rao",
+                    "type": "leaf",
+                    "value": 32
+                },
+                {
+                    "name": "sheila dikshit",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "ankeet chavan",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "ishan kishan",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "rahul dravid",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "amit singh",
+                    "type": "leaf",
+                    "value": 37
+                },
+                {
+                    "name": "nathan hauritz",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "prakash reddy",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "shane warne",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "sambit patra",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "omar mansoor",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "a s kiran kumar",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "hamid hussain",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "asim bajwa",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "raj kumar",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "rahul sharma",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "onno ruhl",
+                    "type": "leaf",
+                    "value": 16
+                },
+                {
+                    "name": "yakub memon",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "nitish kumar",
+                    "type": "leaf",
+                    "value": 11
+                },
+                {
+                    "name": "akhil bharatiya vidyarathi parishad",
+                    "type": "leaf",
+                    "value": 17
+                },
+                {
+                    "name": "dane vilas",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "poonam pandey",
+                    "type": "leaf",
+                    "value": 10
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6493
+        },
+        "Yr-2017": {
+            "children": [
+                {
+                    "name": "donald trump",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "andrew mcdowell",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 11
+        },
+        "Yr-2019": {
+            "children": [
+                {
+                    "name": "ravneet singh gill",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "chris thomas",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "muralikumar anantharaman",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "rana kapoor",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 23
+        },
+        "Yr-2020": {
+            "children": [
+                {
+                    "name": "rajnish kumar",
+                    "type": "leaf",
+                    "value": 23
+                },
+                {
+                    "name": "nirmala sitharaman",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "shaktikanta das",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "sandip sabharwal",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "saurabh kumar",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "deepak jasani",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "clarence fernandez",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "euan rocha",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "chintan patel",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "sameer nigam",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "rana kapoor",
+                    "type": "leaf",
+                    "value": 19
+                },
+                {
+                    "name": "prashant kumar",
+                    "type": "leaf",
+                    "value": 21
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 125
+        },
+        "Yr-2023": {
+            "children": [
+                {
+                    "name": "siddhi nayak",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "prashant kumar",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "deutsche pfandbriefbank",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "harvey schwartz",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "patrick siewert",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "herman chang",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "nina gong",
+                    "type": "leaf",
+                    "value": 8
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 50
+        }
+    },
+    "selection_period": [
+        "Jan-2016",
+        "Mar-2017",
+        "Oct-2017",
+        "Dec-2017",
+        "Apr-2017",
+        "Jan-2019",
+        "Jan-2020",
+        "Aug-2019",
+        "Mar-2020",
+        "Nov-2019",
+        "Jun-2023",
+        "Jan-2023",
+        "Oct-2023",
+        "Mar-2023",
+        "Jul-2023",
+        "Nov-2023",
+        "Yr-2016",
+        "Yr-2017",
+        "Yr-2019",
+        "Yr-2020",
+        "Yr-2023"
+    ],
+    "tonality": {
+        "datasets": [
+            {
+                "data": [
+                    3.30578512396694,
+                    0.36044393434520183,
+                    2.05802968960864,
+                    0.616174804760809,
+                    0.33266893312865503,
+                    1.186101586293524,
+                    6.0459968123103085,
+                    -2.4214088225511774,
+                    -0.450343683337284,
+                    1.3138528687796611,
+                    6.529030423198283,
+                    1.9601733715763183,
+                    1.6492314792349685,
+                    -0.6449378231637619,
+                    4.53218765510084,
+                    5.685063481968293,
+                    -1.1222983929358876,
+                    0.23750518655711492,
+                    3.5,
+                    4.28279585582956,
+                    -0.07432116320448501,
+                    1.9765446421026565,
+                    4.61707480062923,
+                    1.522274984663233,
+                    4.20703933747412,
+                    1.12359550561798,
+                    1.28794848206072,
+                    -2.40963855421687,
+                    0.47392302114713303,
+                    -2.3651178310589973,
+                    0.78125,
+                    0.958879688910776,
+                    1.1920135861668104,
+                    3.135054416607128,
+                    4.47761194029851,
+                    0.5149014723568048,
+                    -0.44885113035607493,
+                    -0.3718688296101249,
+                    2.1885788769111505,
+                    3.3918128654970747,
+                    -2.32261144052939,
+                    -0.022382873268419923,
+                    -1.3681592039801,
+                    1.3963963963963955,
+                    1.99025136697172,
+                    -0.1461251600488583,
+                    3.089151098000655,
+                    -0.200601805416248,
+                    0.772200772200772,
+                    1.4198284473054201,
+                    -1.0390260384298842,
+                    -2.92887029288703,
+                    2.8142678953287525,
+                    1.6839350203139725,
+                    3.125,
+                    11.864406779661,
+                    2.792207792207795,
+                    -0.33895156615688665
+                ],
+                "label": "Media Tone"
+            }
+        ],
+        "labels": [
+            "Jan-2015",
+            "Mar-2015",
+            "Apr-2015",
+            "Jun-2015",
+            "Sep-2015",
+            "Nov-2015",
+            "Dec-2015",
+            "Jan-2016",
+            "Mar-2016",
+            "May-2016",
+            "Jul-2016",
+            "Sep-2016",
+            "Oct-2016",
+            "Nov-2016",
+            "Dec-2016",
+            "Jan-2017",
+            "Mar-2017",
+            "Apr-2017",
+            "Jun-2017",
+            "Jul-2017",
+            "Aug-2017",
+            "Oct-2017",
+            "Dec-2017",
+            "Jan-2018",
+            "Feb-2018",
+            "Mar-2018",
+            "May-2018",
+            "Jun-2018",
+            "Aug-2018",
+            "Sep-2018",
+            "Oct-2018",
+            "Nov-2018",
+            "Dec-2018",
+            "Jan-2019",
+            "Aug-2019",
+            "Sep-2019",
+            "Oct-2019",
+            "Nov-2019",
+            "Dec-2019",
+            "Jan-2020",
+            "Mar-2020",
+            "Apr-2020",
+            "Jan-2021",
+            "Feb-2021",
+            "May-2021",
+            "Feb-2022",
+            "Jul-2022",
+            "Aug-2022",
+            "Oct-2022",
+            "Jan-2023",
+            "Mar-2023",
+            "May-2023",
+            "Jun-2023",
+            "Jul-2023",
+            "Aug-2023",
+            "Sep-2023",
+            "Oct-2023",
+            "Nov-2023"
+        ]
+    }
+}
