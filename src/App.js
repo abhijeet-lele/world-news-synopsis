@@ -6,6 +6,8 @@ import db_data from './db_consolidated.json';
 import adani_data from './adani_consolidated.json';
 import yesbank_data from './yesbank_consolidated.json';
 import maybank_data from './maybank_consolidated.json';
+import tesla_data from './tesla_consolidated.json';
+import tml_data from './tml_consolidated.json';
 import CompanyDropdown from './CompanyDropdown';
 //import data from './Data';
 
@@ -16,7 +18,7 @@ const App = () => {
     const [selectedPeriod, setSelectedPeriod] = useState("Sep-2023");
     const [selectedCompany, setSelectedCompany] = useState("Deutsche Bank");
 
-    let companies = ["Deutsche Bank", "Adani Group", "Yes Bank", "May Bank"];
+    let companies = ["Deutsche Bank", "Adani Group", "Yes Bank", "May Bank", "Tesla Inc", "Tata Motors Ltd"];
 
     const dt = useRef(db_data);
     const periods = useRef(db_data.selection_period);
@@ -29,7 +31,18 @@ const App = () => {
     const handleCompanyChange = (newCompany) => {
 
       switch(newCompany.target.value){
-
+        case "Tata Motors Ltd": {
+          dt.current = tml_data;
+          periods.current = dt.current.selection_period;
+          setSelectedPeriod("Sep-2023")
+        }
+        break;
+        case "Tesla Inc": {
+          dt.current = tesla_data;
+          periods.current = dt.current.selection_period;
+          setSelectedPeriod("Sep-2023")
+        }
+        break;
         case "Adani Group": {
           dt.current = adani_data;
           periods.current = dt.current.selection_period;
