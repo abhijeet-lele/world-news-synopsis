@@ -111,7 +111,7 @@ const Histogram = ({ data, selectedCompany, selectedPeriod }) => {
       </TabPanel>
       <TabPanel>
       <h2>Context Width - Annotations - {data['company']} </h2>
-      <img  src={data['company']=='Tata Motors Ltd' ? process.env.PUBLIC_URL +'/img/Tml-contextwidth.jpg'  :data['company']=='Tesla Inc' ? process.env.PUBLIC_URL +'/img/TeslaInc-contextwidth.jpg'  :data['company']=='Deutsche Bank' ? process.env.PUBLIC_URL +'/img/DeutscheBank-contextwidth.jpg'  : data['company']=='Adani Group' ? process.env.PUBLIC_URL +'/img/AdaniGroup-contextwidth.jpg' : data['company']=='Yes Bank' ? process.env.PUBLIC_URL +'/img/YesBank-contextwidth.jpg' : process.env.PUBLIC_URL +'/img/MayBank-contextwidth.jpg'}/>
+      <img  src={data['company']=='General Electric' ? process.env.PUBLIC_URL +'/img/Ge-contextwidth.jpg'  :data['company']=='Tata Motors Ltd' ? process.env.PUBLIC_URL +'/img/Tml-contextwidth.jpg'  :data['company']=='Tesla Inc' ? process.env.PUBLIC_URL +'/img/TeslaInc-contextwidth.jpg'  :data['company']=='Deutsche Bank' ? process.env.PUBLIC_URL +'/img/DeutscheBank-contextwidth.jpg'  : data['company']=='Adani Group' ? process.env.PUBLIC_URL +'/img/AdaniGroup-contextwidth.jpg' : data['company']=='Yes Bank' ? process.env.PUBLIC_URL +'/img/YesBank-contextwidth.jpg' : process.env.PUBLIC_URL +'/img/MayBank-contextwidth.jpg'}/>
       </TabPanel>
         </Tabs>
       </div>
