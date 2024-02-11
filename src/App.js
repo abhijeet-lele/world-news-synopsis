@@ -9,6 +9,8 @@ import maybank_data from './maybank_consolidated.json';
 import tesla_data from './tesla_consolidated.json';
 import tml_data from './tml_consolidated.json';
 import ge_data from './ge_consolidated.json';
+import rel_data from './rel_consolidated.json';
+
 import CompanyDropdown from './CompanyDropdown';
 //import data from './Data';
 
@@ -19,7 +21,7 @@ const App = () => {
     const [selectedPeriod, setSelectedPeriod] = useState("Sep-2023");
     const [selectedCompany, setSelectedCompany] = useState("Deutsche Bank");
 
-    let companies = ["Deutsche Bank", "Adani Group", "Yes Bank", "May Bank", "Tesla Inc", "Tata Motors Ltd", "General Electric"];
+    let companies = ["Deutsche Bank", "Adani Group", "Yes Bank", "May Bank", "Tesla Inc", "Tata Motors Ltd", "General Electric","Reliance Industries"];
 
     const dt = useRef(db_data);
     const periods = useRef(db_data.selection_period);
@@ -32,6 +34,13 @@ const App = () => {
     const handleCompanyChange = (newCompany) => {
 
       switch(newCompany.target.value){
+        case "Reliance Industries": {
+          dt.current = rel_data;
+          periods.current = dt.current.selection_period;
+          setSelectedPeriod("Sep-2023")
+        }
+        break;
+
         case "General Electric": {
           dt.current = ge_data;
           periods.current = dt.current.selection_period;
