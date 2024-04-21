@@ -10,7 +10,8 @@ import tesla_data from './tesla_consolidated.json';
 import tml_data from './tml_consolidated.json';
 import ge_data from './ge_consolidated.json';
 import rel_data from './rel_consolidated.json';
-
+import nbp_data from './nbp_consolidated.json';
+import combank_data from './combank_consolidated.json';
 import CompanyDropdown from './CompanyDropdown';
 //import data from './Data';
 
@@ -21,7 +22,7 @@ const App = () => {
     const [selectedPeriod, setSelectedPeriod] = useState("Sep-2023");
     const [selectedCompany, setSelectedCompany] = useState("Deutsche Bank");
 
-    let companies = ["Deutsche Bank", "Adani Group", "Yes Bank", "May Bank", "Tesla Inc", "Tata Motors Ltd", "General Electric","Reliance Industries"];
+    let companies = ["Deutsche Bank", "Adani Group", "Yes Bank", "May Bank", "Tesla Inc", "Tata Motors Ltd", "General Electric","Reliance Industries", "Commercial Bank of Ceylon", "National Bank of Pakistan"];
 
     const dt = useRef(db_data);
     const periods = useRef(db_data.selection_period);
@@ -75,6 +76,18 @@ const App = () => {
         case "May Bank": {
           dt.current = maybank_data;
           periods.current = dt.current.selection_period;
+        }
+        break;
+        case "National Bank of Pakistan": {
+          dt.current= nbp_data;
+          periods.current = dt.current.selection_period;
+          setSelectedPeriod("Oct-2023")
+        }
+        break;
+        case "Commercial Bank of Ceylon": {
+          dt.current= combank_data;
+          periods.current = dt.current.selection_period;
+          setSelectedPeriod("Nov-2023")
         }
         break;
         default :{

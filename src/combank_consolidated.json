@@ -1,0 +1,2180 @@
+{
+    "company" : "Commercial Bank of Ceylon",
+    "context_width": {
+        "datasets": [
+            {
+                "data": [
+                    8.300300243089573,
+                    9.552942128803448,
+                    9.794488022523256,
+                    8.755526983562216,
+                    9.615276552989206,
+                    9.612999819256467,
+                    9.62441999531237,
+                    9.340764866594217,
+                    8.649888161012472,
+                    9.635505510599568,
+                    9.538077766113,
+                    9.508977672773078,
+                    9.794488022523256,
+                    8.571410509849017,
+                    9.794488022523256,
+                    9.794488022523256,
+                    9.072093801677022,
+                    9.186585286960945,
+                    9.794488022523256,
+                    6.013545036107701,
+                    8.599717310761875,
+                    8.61835817201197,
+                    8.889995370502316,
+                    9.794488022523256,
+                    9.168784985402896,
+                    9.520889699295468,
+                    9.235218524324377,
+                    9.316289750207337,
+                    9.794488022523256,
+                    9.086523174335424,
+                    7.63097231051065,
+                    9.596468220543057,
+                    9.107989166688016,
+                    6.623064544032728,
+                    7.253316997946891,
+                    7.087962851002766,
+                    7.673860651840197,
+                    9.658062374501428,
+                    8.025285013341943,
+                    8.109968932390801,
+                    9.658248240506907,
+                    7.968422960121021,
+                    9.223009535805053,
+                    9.491457719492951,
+                    8.335132192863151,
+                    7.340993833956706,
+                    9.794488022523256,
+                    9.226473722748176,
+                    8.74251099768379,
+                    9.036142130975147,
+                    7.0343922035584185,
+                    8.4243291205241,
+                    7.215581017692335,
+                    9.381833276993682,
+                    7.768368429925015,
+                    8.804389012622266,
+                    8.447388147990152,
+                    9.267275886657062,
+                    8.898734807698908,
+                    8.76288501587309
+                ],
+                "label": "Context Width"
+            }
+        ],
+        "labels": [
+            "Sep-2015",
+            "Oct-2015",
+            "Jan-2016",
+            "Oct-2017",
+            "Jan-2018",
+            "Feb-2018",
+            "May-2018",
+            "Jun-2018",
+            "Jul-2018",
+            "Aug-2018",
+            "Sep-2018",
+            "Nov-2018",
+            "Jan-2019",
+            "May-2019",
+            "Jun-2019",
+            "Jul-2019",
+            "Aug-2019",
+            "Oct-2019",
+            "May-2020",
+            "Jun-2020",
+            "Jul-2020",
+            "Aug-2020",
+            "Sep-2020",
+            "Oct-2020",
+            "Nov-2020",
+            "Dec-2020",
+            "Jan-2021",
+            "Feb-2021",
+            "Mar-2021",
+            "Apr-2021",
+            "May-2021",
+            "Jun-2021",
+            "Jul-2021",
+            "Aug-2021",
+            "Sep-2021",
+            "Oct-2021",
+            "Nov-2021",
+            "Dec-2021",
+            "Jan-2022",
+            "Feb-2022",
+            "Mar-2022",
+            "Apr-2022",
+            "May-2022",
+            "Jun-2022",
+            "Jul-2022",
+            "Aug-2022",
+            "Sep-2022",
+            "Oct-2022",
+            "Nov-2022",
+            "Dec-2022",
+            "Jan-2023",
+            "Feb-2023",
+            "Mar-2023",
+            "May-2023",
+            "Jun-2023",
+            "Jul-2023",
+            "Aug-2023",
+            "Sep-2023",
+            "Oct-2023",
+            "Nov-2023"
+        ]
+    },
+    "entities_data": {
+        "Apr-2021": {
+            "children": [
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "Apr-2022": {
+            "children": [
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "visa",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "flash digital bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "digital banking initiative of the year",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "revenue department ird sri lanka ports authority",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "provident fund",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank group",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 23
+        },
+        "Apr-2023": {
+            "children": [
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "lanka pay private limited lanka pay",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "ceylon commercial bank",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "international co ltd",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "co ltd",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "corporate communications",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "national card scheme",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 46
+        },
+        "Apr-2024": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Aug-2018": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Aug-2019": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Aug-2020": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 9
+        },
+        "Aug-2021": {
+            "children": [
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Aug-2022": {
+            "children": [
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "visa",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank group",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "digital banking initiative of the year",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 13
+        },
+        "Aug-2023": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Dec-2020": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Dec-2022": {
+            "children": [
+                {
+                    "name": "financial services",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Feb-2018": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "strongest bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "most respected bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "sri lanka best bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Feb-2021": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "Feb-2022": {
+            "children": [
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 4
+                },
+                {
+                    "name": "bank group",
+                    "type": "leaf",
+                    "value": 4
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "financial services",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank cost to income ratio",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 13
+        },
+        "Feb-2023": {
+            "children": [
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Feb-2024": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jan-2018": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "strongest bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "most respected bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "sri lanka best bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Jan-2019": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jan-2021": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Jan-2022": {
+            "children": [
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "revenue department ird sri lanka ports authority",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "provident fund",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6
+        },
+        "Jan-2023": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Jan-2024": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jul-2018": {
+            "children": [
+                {
+                    "name": "most respected bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "sri lanka best bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "strongest bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 9
+        },
+        "Jul-2019": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jul-2020": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 9
+        },
+        "Jul-2022": {
+            "children": [
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6
+        },
+        "Jun-2018": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "strongest bank",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "most respected bank",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "sri lanka best bank",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 12
+        },
+        "Jun-2019": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jun-2020": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 7
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 19
+        },
+        "Jun-2022": {
+            "children": [
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 8
+        },
+        "Mar-2021": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Mar-2022": {
+            "children": [
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "visa",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 8
+        },
+        "Mar-2023": {
+            "children": [
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "national card scheme",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "May-2018": {
+            "children": [
+                {
+                    "name": "most respected bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "sri lanka best bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "strongest bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "May-2019": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "May-2020": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6
+        },
+        "May-2021": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "May-2022": {
+            "children": [
+                {
+                    "name": "bank group",
+                    "type": "leaf",
+                    "value": 4
+                },
+                {
+                    "name": "revenue department ird sri lanka ports authority",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "provident fund",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "financial services",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "bank cost to income ratio",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 21
+        },
+        "Nov-2018": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Nov-2020": {
+            "children": [
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "Nov-2021": {
+            "children": [
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6
+        },
+        "Nov-2022": {
+            "children": [
+                {
+                    "name": "bank group",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "financial services",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "bank cost to income ratio",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 6
+        },
+        "Nov-2023": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Oct-2019": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Oct-2020": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Oct-2023": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Sep-2018": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Sep-2020": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Sep-2022": {
+            "children": [
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Sep-2023": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Yr-2018": {
+            "children": [
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 15
+                },
+                {
+                    "name": "strongest bank",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "most respected bank",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "sri lanka best bank",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 41
+        },
+        "Yr-2019": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 8
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 16
+        },
+        "Yr-2020": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 25
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "representative office",
+                    "type": "leaf",
+                    "value": 20
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 9
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 60
+        },
+        "Yr-2021": {
+            "children": [
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 15
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 8
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 33
+        },
+        "Yr-2022": {
+            "children": [
+                {
+                    "name": "bank is sri lanka",
+                    "type": "leaf",
+                    "value": 18
+                },
+                {
+                    "name": "revenue department ird sri lanka ports authority",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "provident fund",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "bank group",
+                    "type": "leaf",
+                    "value": 12
+                },
+                {
+                    "name": "bank tier",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "financial services",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "bank cost to income ratio",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "mastercard",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "visa",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "flash digital bank",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "digital banking initiative of the year",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "colombo stock exchange",
+                    "type": "leaf",
+                    "value": 7
+                },
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 109
+        },
+        "Yr-2023": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "central bank",
+                    "type": "leaf",
+                    "value": 10
+                },
+                {
+                    "name": "international finance corporation",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "national card scheme",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "sri lankan bank",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "lanka pay private limited lanka pay",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "ceylon commercial bank",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "international co ltd",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "co ltd",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "corporate communications",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 64
+        },
+        "Yr-2024": {
+            "children": [
+                {
+                    "name": "bank deputy",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        }
+    },
+    "persons_data": {
+        "Apr-2022": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Apr-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "koya sakuma",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "ayaka nakajima",
+                    "type": "leaf",
+                    "value": 5
+                },
+                {
+                    "name": "combank lankapay",
+                    "type": "leaf",
+                    "value": 6
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 27
+        },
+        "Aug-2021": {
+            "children": [
+                {
+                    "name": "justice k sripavan",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Aug-2022": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 4
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "Aug-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 4
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Dec-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Feb-2021": {
+            "children": [
+                {
+                    "name": "justice k sripavan",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Feb-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Feb-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jan-2018": {
+            "children": [
+                {
+                    "name": "jegan durairatnam",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jan-2023": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "Jul-2018": {
+            "children": [
+                {
+                    "name": "jegan durairatnam",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jul-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Jul-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jun-2018": {
+            "children": [
+                {
+                    "name": "jegan durairatnam",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Jun-2022": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Jun-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Mar-2021": {
+            "children": [
+                {
+                    "name": "justice k sripavan",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Mar-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 3
+                },
+                {
+                    "name": "koya sakuma",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "combank lankapay",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 7
+        },
+        "May-2021": {
+            "children": [
+                {
+                    "name": "justice k sripavan",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "May-2022": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                },
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 4
+        },
+        "May-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Nov-2021": {
+            "children": [
+                {
+                    "name": "justice k sripavan",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Nov-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 3
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Nov-2023": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 2
+        },
+        "Oct-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Oct-2023": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Sep-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 2
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 3
+        },
+        "Sep-2023": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 1
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 1
+        },
+        "Yr-2018": {
+            "children": [
+                {
+                    "name": "jegan durairatnam",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 5
+        },
+        "Yr-2021": {
+            "children": [
+                {
+                    "name": "justice k sripavan",
+                    "type": "leaf",
+                    "value": 10
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 10
+        },
+        "Yr-2022": {
+            "children": [
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 21
+                },
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 13
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 34
+        },
+        "Yr-2023": {
+            "children": [
+                {
+                    "name": "hasrath munasinghe",
+                    "type": "leaf",
+                    "value": 9
+                },
+                {
+                    "name": "sanath manatunge",
+                    "type": "leaf",
+                    "value": 29
+                },
+                {
+                    "name": "koya sakuma",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "combank lankapay",
+                    "type": "leaf",
+                    "value": 8
+                },
+                {
+                    "name": "ayaka nakajima",
+                    "type": "leaf",
+                    "value": 5
+                }
+            ],
+            "name": "outer",
+            "type": "node",
+            "value": 59
+        }
+    },
+    "selection_period": [
+        "Jan-2018",
+        "Jun-2018",
+        "Jul-2018",
+        "Feb-2021",
+        "Mar-2021",
+        "May-2021",
+        "Aug-2021",
+        "Nov-2021",
+        "Feb-2022",
+        "Apr-2022",
+        "May-2022",
+        "Jun-2022",
+        "Jul-2022",
+        "Aug-2022",
+        "Sep-2022",
+        "Oct-2022",
+        "Nov-2022",
+        "Dec-2022",
+        "Jan-2023",
+        "Feb-2023",
+        "Mar-2023",
+        "Apr-2023",
+        "May-2023",
+        "Jun-2023",
+        "Jul-2023",
+        "Aug-2023",
+        "Sep-2023",
+        "Oct-2023",
+        "Nov-2023",
+        "Yr-2018",
+        "Yr-2021",
+        "Yr-2022",
+        "Yr-2023"
+    ],
+    "tonality": {
+        "datasets": [
+            {
+                "data": [
+                    3.8825633383010465,
+                    2.41545893719807,
+                    0.884955752212389,
+                    4.67532467532468,
+                    6.45161290322581,
+                    3.08529945553539,
+                    5.78231292517007,
+                    2.1290716579029265,
+                    4.956789799161334,
+                    1.27186009538951,
+                    6.15384615384615,
+                    1.0095840919167252,
+                    1.8,
+                    4.515641595585095,
+                    2.68456375838926,
+                    3.19327731092437,
+                    1.166150670794636,
+                    1.21580547112462,
+                    2.3737841954776453,
+                    2.5510178854050216,
+                    2.673934613976192,
+                    -0.18534316002496665,
+                    3.3506522437052446,
+                    4.94505494505495,
+                    1.765850679126541,
+                    4.331371228936698,
+                    2.085353016008335,
+                    -1.524603415180261,
+                    2.779820787212395,
+                    2.99414161112787,
+                    3.0003310282585045,
+                    3.63602878856123,
+                    4.034156522563016,
+                    3.109313511835692,
+                    2.04969357473285,
+                    3.08161311339515,
+                    2.910031125234092,
+                    3.212912638456027,
+                    4.002545632864364,
+                    3.821819246521862,
+                    4.331359730224998,
+                    3.1233735930728095,
+                    -0.11961688667839152,
+                    3.88749749215062,
+                    2.9873686565030844,
+                    2.940796402784008,
+                    4.228249006905524,
+                    4.673839810962624,
+                    0.8997734052939176,
+                    3.384758158582583,
+                    3.135745773217847,
+                    2.518887979530177,
+                    4.095268259311077,
+                    4.3969742390714135,
+                    -1.85694635488308,
+                    3.9118887628154333,
+                    2.9665044764054675,
+                    2.598629408445981,
+                    3.1204335439378452,
+                    2.9310461866295148,
+                    5.111054715728928,
+                    0.4856254856254849
+                ],
+                "label": "Media Tone"
+            }
+        ],
+        "labels": [
+            "Sep-2015",
+            "Oct-2015",
+            "Jan-2016",
+            "Oct-2017",
+            "Jan-2018",
+            "Feb-2018",
+            "May-2018",
+            "Jun-2018",
+            "Jul-2018",
+            "Aug-2018",
+            "Sep-2018",
+            "Nov-2018",
+            "Jan-2019",
+            "May-2019",
+            "Jun-2019",
+            "Jul-2019",
+            "Aug-2019",
+            "Oct-2019",
+            "May-2020",
+            "Jun-2020",
+            "Jul-2020",
+            "Aug-2020",
+            "Sep-2020",
+            "Oct-2020",
+            "Nov-2020",
+            "Dec-2020",
+            "Jan-2021",
+            "Feb-2021",
+            "Mar-2021",
+            "Apr-2021",
+            "May-2021",
+            "Jun-2021",
+            "Jul-2021",
+            "Aug-2021",
+            "Sep-2021",
+            "Oct-2021",
+            "Nov-2021",
+            "Dec-2021",
+            "Jan-2022",
+            "Feb-2022",
+            "Mar-2022",
+            "Apr-2022",
+            "May-2022",
+            "Jun-2022",
+            "Jul-2022",
+            "Aug-2022",
+            "Sep-2022",
+            "Oct-2022",
+            "Nov-2022",
+            "Dec-2022",
+            "Jan-2023",
+            "Feb-2023",
+            "Mar-2023",
+            "Apr-2023",
+            "May-2023",
+            "Jun-2023",
+            "Jul-2023",
+            "Aug-2023",
+            "Sep-2023",
+            "Oct-2023",
+            "Nov-2023",
+            "Dec-2023"
+        ]
+    }
+}
